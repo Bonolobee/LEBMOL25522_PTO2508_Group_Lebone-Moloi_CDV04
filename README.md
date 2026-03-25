@@ -25,7 +25,19 @@ Vulindlela is seeking a talented and motivated Junior React Developer to assist 
 4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter](<insert your Google Docs link here>)
+[Your Google Docs Cover Letter](https://docs.google.com/document/d/1SpuUPQ16WQkeZ_nrLcQF3zuaTE4GrlrhkKc4J4Wfueg/edit?usp=sharing)
+
+# 🎯Strategic Alignment
+To achieve a Distinction-grade application, I focused on the following key areas:
+1. **Fintech Industry Fit:** Emphasizing my understanding of security and reliability in payment systems.
+2. **Technical Progression:** Articulating how my mastery of State Management and DOM manipulation in JavaScript prepares me for React components.
+3. **Problem-Solving:** Demonstrating a proactive approach to building modular, scalable code.
+
+## 🛠️ Personal Development Goals
+Through this assignment, I have demonstrated:
+1. **Professional Communication:** Crafting a persuasive narrative for a specific job market.
+2. **Company Research:** Aligning personal values with Vulindlela's mission of financial inclusion.
+3. **Portfolio Presentation:** Ensuring all submission materials (GitHub and Google Docs) meet professional industry standards.
 
 For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
 
